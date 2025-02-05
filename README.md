@@ -47,7 +47,19 @@
 - ロックオン時、カメラが敵を中心に追従
 - もう一度 R キーを押すとロックオン解除
 
-## セットアップ手順
 
-1. GitHub リポジトリからビルドをダウンロード
-2. Game.exe（または .app）を実行してプレイ
+### **セットアップ手順（Google Drive からダウンロードしてプレイ）**  
+
+1. **Google Drive のダウンロードリンクにアクセス**  
+   - (https://drive.google.com/drive/folders/1W7YpcVnqSBy6JgrriWgaMmYq1J0U8MZG?usp=sharing)
+
+2. **「ダウンロード」ボタンをクリックし、ファイルを保存**  
+   - `Build.zip` をダウンロード  
+
+3. **ダウンロードしたファイルを解凍**  
+   - `Build.zip` を右クリック → **「すべて展開」**（Windows）  
+   - `Build.zip` をダブルクリック → **「展開」**（Mac）  
+
+4. **ゲームを起動**  
+   - **Windows:** `Game.exe` をダブルクリック  
+   - **Mac:** `Game.app` を開く
