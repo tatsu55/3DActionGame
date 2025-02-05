@@ -58,8 +58,8 @@
 
 3. **ダウンロードしたファイルを解凍**  
    - `Build.zip` を右クリック → **「すべて展開」**（Windows）  
-   - `Build.zip` をダブルクリック → **「展開」**（Mac）  
+   - `Build.app.zip` をダブルクリック → **「展開」**（Mac）  
 
 4. **ゲームを起動**  
-   - **Windows:** `Game.exe` をダブルクリック  
-   - **Mac:** `Game.app` を開く
+   - **Windows:** 'Game.exe' をダブルクリック  
+   - **Mac:**　'Game.app' をContents/MacOS/Game の場所にある実行ファイルを使用してゲームを開始します。
