@@ -51,7 +51,7 @@
 ### **セットアップ手順（Google Drive からダウンロードしてプレイ）**  
 
 1. **Google Drive のダウンロードリンクにアクセス**  
-   - (https://drive.google.com/drive/folders/1W7YpcVnqSBy6JgrriWgaMmYq1J0U8MZG?usp=sharing)
+   - [ダウンロードリンク](https://drive.google.com/drive/folders/1W7YpcVnqSBy6JgrriWgaMmYq1J0U8MZG?usp=sharing)
 
 2. **「ダウンロード」ボタンをクリックし、ファイルを保存**  
    - `Build.zip` をダウンロード  
